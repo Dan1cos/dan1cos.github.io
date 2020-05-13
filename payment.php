@@ -1,6 +1,6 @@
 <?php
 
-phpinfo();
+echo phpinfo();
 /*if(isset($_GET))
 {
 	$db = new SQLite3('db.db.txt');
